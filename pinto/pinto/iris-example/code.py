@@ -1,3 +1,4 @@
+#ejemplo de iriss
 import random
 
 def generarLista(n, minimo=1, maximo=10):
