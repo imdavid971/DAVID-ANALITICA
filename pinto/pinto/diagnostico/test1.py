@@ -11,7 +11,7 @@ while True:
     
     if numero_anterior is not None and numero <= numero_anterior:
         break  
-    
+   
 
     numero_anterior = numero
     contador += 1
