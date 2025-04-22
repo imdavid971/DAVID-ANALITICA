@@ -4,5 +4,3 @@ t3=()
 print(type(t1))
 print(type(t2))
 print(t1)
-# for x in t1:
-#     print(x)
